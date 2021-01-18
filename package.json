@@ -1,6 +1,6 @@
 {
   "name": "@definejs/fn",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,6 +13,6 @@
     "url": "https://github.com/definejs/fn.git"
   },
   "dependencies": {
-    "@definejs/math": "^0.1.2"
+    "@definejs/math": "^1.0.0"
   }
 }
